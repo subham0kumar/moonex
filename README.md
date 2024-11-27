@@ -57,10 +57,6 @@ Potential additions to enhance functionality and features:
 - Including advanced animations using libraries like Framer Motion.
 - Enhancing accessibility and implementing ARIA roles for improved usability.
 
----
-
-## **Screenshots**
-*(Include screenshots of key components like the navbar, cards, loading animation, and mobile layout.)*
 
 ---
 
