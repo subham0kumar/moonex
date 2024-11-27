@@ -4,19 +4,19 @@
 
 @font-face {
   font-family: "Neue Machina Ultrabold";
-  src: url("public/Fonts/NeueMachina-Ultrabold.otf");
+  src: url("public/fonts/NeueMachina-Ultrabold.otf") format("opentype");
 }
 @font-face {
   font-family: "Neue Machina Regular";
-  src: url("public/Fonts/NeueMachina-Regular.otf");
+  src: url("public/fonts/NeueMachina-Regular.otf") format("opentype");
 }
 @font-face {
   font-family: "Neue Machina Light";
-  src: url("public/Fonts/NeueMachina-Light.otf");
+  src: url("public/fonts/NeueMachina-Light.otf") format("opentype");
 }
 @font-face {
   font-family: "Raleway";
-  src: url("public/Fonts/Raleway.ttf");
+  src: url("public/fonts/Raleway.ttf") format("truetype");
 }
 
 * {
