@@ -1,8 +1,8 @@
-# **Mooex Website - React and Tailwind CSS**
+# **Moonex Website - React and Tailwind CSS**
 
 ## **Live Demo**
 Check out the live version of the website here:  
-**[Mooex Website](https://moonex-subham-kumar.netlify.app/)**
+**[Moonex Website](https://moonex-subham-kumar.netlify.app/)**
 
 This project is a React-based implementation of a static website designed from a Figma prototype. While adhering to the original design, this project includes subtle yet impactful custom enhancements and animations for improved interactivity and responsiveness.
 
