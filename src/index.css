@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Neue Machina Ultrabold";
+  src: url("public/Fonts/NeueMachina-Ultrabold.otf");
+}
+@font-face {
+  font-family: "Neue Machina Regular";
+  src: url("public/Fonts/NeueMachina-Regular.otf");
+}
+@font-face {
+  font-family: "Neue Machina Light";
+  src: url("public/Fonts/NeueMachina-Light.otf");
+}
+@font-face {
+  font-family: "Raleway";
+  src: url("public/Fonts/Raleway.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #071624;
+  overflow-x: hidden;
+}
